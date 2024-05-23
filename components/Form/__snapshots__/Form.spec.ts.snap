@@ -1,0 +1,26 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Taroの表示 1`] = `
+<div>
+  
+  <h1>
+    アカウント情報
+  </h1>
+  <form>
+    <h2>
+      アカウント名:
+    </h2>
+    <p>
+      Hoge
+    </p>
+    <div>
+      <button
+        type="submit"
+      >
+        編集
+      </button>
+    </div>
+  </form>
+  
+</div>
+`;
